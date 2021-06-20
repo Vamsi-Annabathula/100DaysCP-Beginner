@@ -1,0 +1,3 @@
+while (readline()) {
+    print("no")
+}
